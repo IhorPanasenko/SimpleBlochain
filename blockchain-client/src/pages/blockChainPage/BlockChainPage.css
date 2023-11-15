@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(76, 49, 101);
+    font-size: 20px;
+}
+
+h3{
+    color : green;
+}
+
+.chain{
+    flex-direction: column;
+    align-items: center;
+}
